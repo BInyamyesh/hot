@@ -1,0 +1,40 @@
+<html> 
+<head> 
+<title> IMU Best shiro </title>
+ 
+ <body>
+ <header> 
+ <h1> Imu Best shiro </h1>
+  <h3> Come and get homies!<h2>
+ </header>
+ <main>
+ <section id=form-content>
+ <h2> Order Place </h2> 
+ <input method=" GET" action="place-holder.Php>
+  <input name="Address1" Placeholder="Address" class="lg-input" <br/>
+  <input name="Address2" Placeholder="Addresss" class="lg-input"<br/>
+     <input name="city" placeholder="City" class="sm-input"/>
+    <input name="state" placeholder="State" class="sm-input"/> <br/>
+    <input name="zip" placeholder="Zip code" class="sm-input"/>
+    <input name="street" placeholder="Street no" class="sm input"/>
+    <br/>
+    <h4> type </h4>
+    <input name="Tegabino" input <br/>
+    <input name="Shiro feses" input><br/>
+    <input name="Bozona"input <br/>
+     <br/>
+     <h5>price</h5>
+   <input name="80$" input <br/>>
+   <input name="50$" input <br/>
+   <input name="100$" input <br/>
+   <br/>
+   
+       <footer> 
+       <center>&copy; </center>
+       <center&<a href="Term of service"> 
+       
+       </footer>
+ <main>
+ </body>
+ </head>
+</html>
